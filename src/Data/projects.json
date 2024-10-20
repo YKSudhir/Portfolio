@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Tendency",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to set goal for doing codeforces question.",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+    "demo": "https://tendency.onrender.com/"
+  },
+  {
+    "title": "Wanderlust",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project is the clone of airbnb.",
+    "skills": ["Html", "Bootstrap", "Node", "Express"],
+    "demo": "https://wanderlust-project-bryn.onrender.com/",
+    "source": ""
+  },
+  {
+    "title": "Spotify clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "Css"],
+    "demo": "https://spotify-4dnx.onrender.com/",
+    "source": "https://github.com/YKSudhir/Spotify-Clone"
+  }
+]
